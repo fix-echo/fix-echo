@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liyunfu1998&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyunfu1998&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fix-echo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fix-echo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ### Techs
@@ -27,13 +27,13 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/liyunfu1998/liyunfu1998/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fix-echo/fix-echo/output/snake.svg" alt="Snake animation" />
 
 ###
 
 ### 📫 Contact Me
-- **Email:** [liyunfu1998@qq.com](mailto:liyunfu1998@qq.com)
-- **Github:** [Github](https://github.com/liyunfu1998)  
+- **Email:** [fix-echo@qq.com](mailto:fix-echo@qq.com)
+- **Github:** [Github](https://github.com/fix-echo)  
 - **掘金:** [26x](https://juejin.cn/user/2277843824292183)
 ---
 
