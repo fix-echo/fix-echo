@@ -34,6 +34,6 @@
 ### 📫 Contact Me
 - **Email:** [liyunfu1998@qq.com](mailto:liyunfu1998@qq.com)
 - **Github:** [Github](https://github.com/fix-echo)  
-- **掘金:** [26x](https://juejin.cn/user/2277843824292183)
+- **掘金:** [FixEcho](https://juejin.cn/user/2277843824292183)
 ---
 
