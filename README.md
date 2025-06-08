@@ -43,7 +43,8 @@ sdk_version: 5.33.0
 - **掘金:** [FixEcho](https://juejin.cn/user/2277843824292183)
 ---
 
-[![](https://images.pexels.com/photos/30675194/pexels-photo-30675194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)](https://fixecho11-fix-echo.hf.space)
+### 🌟 Enter to AI Chat to know me more
+[![](./aichat.png)](https://fixecho11-fix-echo.hf.space)
 
 
 
