@@ -43,3 +43,26 @@ sdk_version: 5.33.0
 - **掘金:** [FixEcho](https://juejin.cn/user/2277843824292183)
 ---
 
+<iframe
+	src="https://fixecho11-fix-echo.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>
+
+
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/5.33.0/gradio.js"
+></script>
+
+<gradio-app src="https://fixecho11-fix-echo.hf.space"></gradio-app>
+
+{% javascript %}
+  <script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/5.33.0/gradio.js"
+></script>
+
+<gradio-app src="https://fixecho11-fix-echo.hf.space"></gradio-app>
+{% endjavascript %}
