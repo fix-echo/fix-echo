@@ -4,6 +4,7 @@ app_file: main.py
 sdk: gradio
 sdk_version: 5.33.0
 ---
+
 <h2 align="left">Hi 👋! My name is Li Yunfu and I'm a full stack developer, from China</h2>
 
 ###
@@ -38,13 +39,9 @@ sdk_version: 5.33.0
 ###
 
 ### 📫 Contact Me
+
 - **Email:** [liyunfu1998@qq.com](mailto:liyunfu1998@qq.com)
-- **Github:** [Github](https://github.com/fix-echo)  
+- **Github:** [Github](https://github.com/fix-echo)
 - **掘金:** [FixEcho](https://juejin.cn/user/2277843824292183)
+
 ---
-
-### 🌟 Enter to AI Chat to know me more
-[![](./aichat.png)](https://fixecho11-fix-echo.hf.space)
-
-
-
